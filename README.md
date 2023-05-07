@@ -2,7 +2,6 @@
 
 Chenglizhao Chen, Guangxiao Ma\*, Wenfeng Song, Shuai Li, Aimin Hao, and Hong Qin (\*indicate equal contribution)
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017 **(Oral presentation)**
 
 ![](/demo/01.gif)
 
